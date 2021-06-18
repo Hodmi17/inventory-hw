@@ -1,0 +1,17 @@
+.inventorycontainer{
+    border:solid 1px black;
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    font-size: larger;
+    text-align: center;
+    background-color: blueviolet;
+
+}
+div{
+    border: solid 3px rgb(10, 10, 10);
+    flex:1;
+    padding: 15px;
+    
+    
+}
